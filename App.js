@@ -22,7 +22,7 @@ class MyList extends Component{
       {name:"Ben",Email:"Ben@yahoo.com",icon:"pie"},
       {name:"Bob",Email:"Bob@yahoo.com",icon:"person"},
       {name:"Ken",Email:"Ken@yahoo.com",icon:"eye"},
-      {name:"Ryan",Email:"Ryan@yahoo.com",icon:"rose"}] 
+      {name:"Ryan",Email:"Ryan@yahoo.com",icon:"rose"}]  
     }
   }
   static navigationOptions = ({navigation})=>({
